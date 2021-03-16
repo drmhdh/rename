@@ -54,7 +54,7 @@ async def rename_doc(bot, update):
 
 
 
-                )
+
             )
             return
         description = Translation.CUSTOM_CAPTION_UL_FILE
